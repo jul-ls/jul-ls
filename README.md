@@ -1,10 +1,10 @@
 ### Hey, my name is Juliano 👋
 
-I am a teacher and civil engineer with a focus in BIM and construction management. 👷
+I am a professor and civil engineer with a focus in BIM and construction management. 👷
 I aim to research and develop apps for AEC so designers can make informed decisions. 📈
 
-- 🌱 I’m currently learning ifc.js, javascript, typescript and react
-- 🤔 I’m looking for help with developing BIM web apps for educational purposes and for construction management
+- Currently learning ifc.js, javascript, typescript and react
+- Looking for help with developing BIM web apps for educational purposes and for construction management
 <!--- 📑 <a href="https://jul-ls.github.io">My portfolio</a>-->
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliano208945/)
