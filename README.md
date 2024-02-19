@@ -3,7 +3,7 @@
 I am a professor and civil engineer with a focus in BIM and construction management. 👷
 I aim to research and develop apps for AEC so designers can make informed decisions. 📈
 
-- Currently learning ifc.js, javascript, typescript and react
+- Currently developing using ifc.js, javascript, typescript and react
 - Looking for help with developing BIM web apps for educational purposes and for construction management
 <!--- 📑 <a href="https://jul-ls.github.io">My portfolio</a>-->
 
