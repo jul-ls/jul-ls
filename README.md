@@ -2,7 +2,6 @@
 
 I am a professor and civil engineer with a focus in BIM and construction management. 👷
 
-I aim to research and develop apps for AEC so designers can make informed decisions. 📈
 <!--- 📑 <a href="https://jul-ls.github.io">My portfolio</a>-->
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliano208945/)
