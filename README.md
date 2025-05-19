@@ -2,15 +2,11 @@
 
 I am a professor and civil engineer with a focus in BIM and construction management. 👷
 I aim to research and develop apps for AEC so designers can make informed decisions. 📈
-
-- Currently developing using ifc.js, javascript, typescript and react
-- Looking for help with developing BIM web apps for educational purposes and for construction management
 <!--- 📑 <a href="https://jul-ls.github.io">My portfolio</a>-->
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliano208945/)
 
-
-## Tecnologies
+## Tech
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -20,5 +16,3 @@ I aim to research and develop apps for AEC so designers can make informed decisi
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
-
-Thanks for visiting!
